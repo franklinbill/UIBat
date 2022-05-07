@@ -10,7 +10,7 @@ Our approach is named as UIBat as it is like a bat to effectively detect, locali
 We develop the UIBat platform for automatic detecting, localizing and repairing the UI display issue. 
 **Please note** that we are very sorry that the domain name(url link) and server used by our UIBat now contain personal information. For the requirements of **double-blind review**, we give the demo video and hide the domain name information. After the blind review, we will update GitHub with the domain name(the url link) of UIBat. 
 Up to now, UIBat detects **129 previously undetected UI display issues from GitHub**, which again indicates the prevalence of UI display issues, and the necessity for the auto-repair. UIBat can repair 121 (94%) of them. For the **121 submitted pull requests**, **92 of them are successfully merged** by developers, while the remaining are still pending (**none of them is rejected**).
-We provide demo video as shown in below video for helping the understanding. The video link is: https://youtu.be/1qbPwKLDspA
+We provide demo video as shown in below video for helping the understanding. The video link is: https://youtu.be/qakb-Yl8FJQ
 
 ![UIBat demo video](https://github.com/UIBat/UIBat/blob/main/UIbat-gif%2000_00_00-00_00_30%7E1.gif) 
 
